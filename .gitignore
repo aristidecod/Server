@@ -1,0 +1,22 @@
+# Dossier Gradle
+.gradle/
+
+# Dossier de build
+build/
+
+# Dossier temporaire
+tmp/
+
+# Dossiers spécifiques à l'IDE IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+
+# Fichier local.properties spécifique à la machine
+local.properties
+
+# Autres fichiers système spécifiques à Windows
+Thumbs.db
+Desktop.ini
+
+# Autres fichiers système spécifiques à MacOS
+.DS_Store
